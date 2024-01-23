@@ -13,7 +13,7 @@ See file DS-4002-Survey-Results.csv
 |-------|------------|-------------------|
 | Timestamp | indicates the month/day/year and hour, minute, and second that the responder completed the survey |month/day/year, hour:minute:second|
 | Sandwich| Answers the question: Is a hot dog a sandwich?| "Yes" indicates that the responder believes that a hot dog is a sandwich, "No" indicates that the responder believes that a hot dog is not a sandwich |
-| Rationale question| Question about why yes or no| any string containing a valid email address|
+| Rationale question| Question about why yes or no| Any string of characters explaining rationale|
 |Enrollment question| question intended to get participants information if they are currently enrolled at the university of virginia | yes/no |
 | study| indicates field of study|any string containing a field of study |
 
